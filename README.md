@@ -12,7 +12,7 @@
 
 ### Login Activity&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Signup Activity                                                  
 
-<img width="334" alt="Screenshot 2022-05-25 at 5 09 34 PM" src="![Uploading image.png…]()
+<img width="334" alt="Screenshot 2022-05-25 at 5 09 34 PM" src="
 /76573095/170253621-3b69f35f-4233-4140-92dc-ca3ae7f31086.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img width="342" alt="Screenshot 2022-05-26 at 3 39 39 PM" src="https://user-images.githubusercontent.com/76573095/170467326-30728178-fabd-4197-9cc4-ea2185b5c1eb.png">
 
 

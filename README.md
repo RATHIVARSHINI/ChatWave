@@ -1,4 +1,5 @@
-# ![20CS2409 - L 2 1  Demeter Logo (1) (1)](https://user-images.githubusercontent.com/76573095/170567093-9a54c224-4d1c-4dfe-97e6-4a36699da015.png)DEMETER (Work in Progress)
+# ![20CS2409 - L 2 1  Demeter Logo (1) (1)](![Screenshot 2024-11-04 152146](https://github.com/user-attachments/assets/dfaf7234-51f7-4950-8b20-bce8c69dbba2)
+/76573095/170567093-9a54c224-4d1c-4dfe-97e6-4a36699da015.png)DEMETER (Work in Progress)
 
 
 ### VII-th Semester Project
